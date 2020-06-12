@@ -3,7 +3,7 @@
 ### Features
 
  - Search repos through topic or programming languages.
- - Generate a PDF report based on the search result ( for Admin purposes 
+ - Generate a PDF report based on the search result ( for Admin purposes )
 
 ### Test unit
 
