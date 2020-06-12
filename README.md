@@ -1,22 +1,22 @@
 # Code test for Github search and report
 
-###Features
+### Features
 
  - Search repos through topic or programming languages.
  - Generate a PDF report based on the search result ( for Admin purposes 
 
-###Test unit
+### Test unit
 
 Link :  [here](https://github-search-report.herokuapp.com/)
 
-###Instruction
+### Instruction
 
 - Type any repository that you want to search.
 - Type topic / languages that is related to that said repository
 - Click the button which is based on topic / languages that you input just now
 - After the information pops up, there's a button where you can generate a PDF file and you can click it to get the report from there.
 
-###Compromises/Shotcuts
+### Compromises/Shotcuts
 
 - Basically due to time limit given, a simple table is used to reach the requirement given.
 - The design of the content inside of PDF is very basic at the moment which U think can be improved overtime. 
