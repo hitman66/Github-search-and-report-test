@@ -14,7 +14,7 @@
     "@nuxtjs/axios": "^5.11.0",
     "jspdf": "^1.5.3",
     "jspdf-autotable": "^3.5.3",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "nuxt-pdf": "^1.0.4",
     "vuelidate": "^0.7.5"
   },
